@@ -72,7 +72,7 @@ const bancoDeProdutos = [
     {
         id: 9,
         nome: "Freeza",
-        descricao: "Tamanho total: 41cm  |  Escala: 1:8  |  Valor: R$600,00",
+        descricao: "Tamanho total: 44cm  |  Escala: 1:7  |  Valor: R$1.000,00",
         fotos: [
             "imagens/Freeza/freeza.jpg"
         ]
@@ -80,9 +80,9 @@ const bancoDeProdutos = [
     {
         id: 10,
         nome: "Gogeta & Janemba",
-        descricao: "Tamanho total: 41cm  |  Escala: 1:8  |  Valor: R$600,00",
+        descricao: "|  Valor promocional: R$2.100,00  |",
         fotos: [
-            "imagens/Gogeta & Janemba/gogeta&janemba.jpg"
+            "imagens/Gogeta&Janemba/gogeta&janemba.jpg"
         ]
     }
 ];
